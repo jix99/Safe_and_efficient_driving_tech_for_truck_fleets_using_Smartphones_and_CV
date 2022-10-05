@@ -4,7 +4,7 @@ astunparse==1.6.3
 attrs==22.1.0
 backports.zoneinfo==0.2.1
 blinker==1.5
-cv2==4.6.0
+opencv-python==4.6.0
 cachetools==5.2.0
 certifi==2022.6.15.1
 charset-normalizer==2.1.1
