@@ -64,7 +64,7 @@ if uploaded_data is not None:
     # In[20]:
 
 
-    model = tf.keras.models.load_model()
+    model = tf.keras.models.load_model('saved_model.pb')
 
 
     # In[33]:
