@@ -64,7 +64,7 @@ if uploaded_data is not None:
     # In[20]:
 
 
-    model = models.load_model('https://github.com/jix99/Safe_and_efficient_driving_tech_for_truck_fleets_using_Smartphones_and_CV/blob/b4db91dccd6dacf231752aff6ee84a365c28919a/saved_model.pb')
+    model = models.load_model('saved_model')
 
 
     # In[33]:
