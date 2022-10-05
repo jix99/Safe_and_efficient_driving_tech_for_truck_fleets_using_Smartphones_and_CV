@@ -64,7 +64,7 @@ if uploaded_data is not None:
     # In[20]:
 
 
-    model = tf.keras.models.load_model('network_cnn')
+    model = tf.keras.models.load_model("")
 
 
     # In[33]:
