@@ -64,7 +64,7 @@ if uploaded_data is not None:
     # In[20]:
 
 
-    model = models.load_model('saved_model')
+    model = models.load_model('main/saved_model.pb')
 
 
     # In[33]:
