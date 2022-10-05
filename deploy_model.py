@@ -64,7 +64,7 @@ if uploaded_data is not None:
     # In[20]:
 
 
-    model = models.load_model(r'C:\Users\goldr\Desktop\Phase_5_6')
+    model = models.load_model('/')
 
 
     # In[33]:
