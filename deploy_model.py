@@ -64,7 +64,7 @@ if uploaded_data is not None:
     # In[20]:
 
 
-    model = models.load_model('Safe_and_efficient_driving_tech_for_truck_fleets_using_Smartphones_and_CV')
+    model = models.load_model('models')
 
 
     # In[33]:
